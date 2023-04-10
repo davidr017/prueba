@@ -1,1 +1,4 @@
-<?php  echo "hola mundo" ?>
+<?php  echo "hola mundo" 
+
+echo "segunda prueba";
+?>
